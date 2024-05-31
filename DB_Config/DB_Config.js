@@ -1,0 +1,9 @@
+module.exports={
+    Connection:{
+        username:"root",
+        password:"Root@1234",
+        database:"Contact_Management",
+        host:"127.0.0.1",
+        dialect:'mysql'
+    }
+}
